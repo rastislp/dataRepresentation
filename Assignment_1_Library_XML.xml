@@ -1,0 +1,22 @@
+﻿<library>
+	<technical_books>
+		<ISBN>9781781259726 </ISBN>
+		<title>Megatech: Technology in 2050</title>
+		<author>Daniel Franklin</author>
+	</technical_books>
+	<technical_books>
+		<ISBN>9781473637313 </ISBN>
+		<title>Thing Explainer: Complicated Stuff in Simple Words</title>
+		<author>Randall Munroe</author>
+	</technical_books>
+	<cookery_books>
+		<ISBN>9781905400966</ISBN>
+		<title>Complete Traditional Recipe Book</title>
+		<author>Sara Edington</author>
+	</cookery_books>
+	<cookery_books>
+		<ISBN>10: 190540042X</ISBN>
+		<title>The National Trust Complete Traditional Recipe Book</title>
+		<author>Sara Edington</author>
+	</cookery_books>
+</library>
